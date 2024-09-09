@@ -1,0 +1,38 @@
+
+@media only screen and (min-width: 200px) {
+
+    .atur1{width: 90%;}
+    
+    }
+    
+    
+    
+@media only screen and (min-width: 600px) {
+    
+    .atur1{width: 80%;}
+    
+    }
+    
+    
+    
+@media only screen and (min-width: 600px) {
+    
+    .atur1{width: 80%;}
+    
+}
+    
+    
+    
+@media only screen and (min-width: 1000px) {
+    
+    .atur1{width: 50%;}
+    
+}
+    
+    
+    
+@media only screen and (min-width: 1300px) {
+    
+    .atur1{width: 30%;}
+    
+}
